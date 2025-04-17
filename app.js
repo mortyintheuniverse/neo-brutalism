@@ -6,7 +6,7 @@ const server = http.createServer((req, res) => {
 
   // Create a sample JSON object
   const response = {
-    message: 'Hello from Node server!',
+    message: 'Random site created by morty wu!',
     success: true
   };
 
